@@ -5,7 +5,7 @@
   "description": "Generate markdown files for publishing system",
   "main": "build",
   "dependencies": {
-    "commonmark": "^0.27.0",
+    "commonmark": "^0.29.2",
     "glob": "^7.1.1",
     "line-ending-corrector": "^1.0.0",
     "liquidjs": "^3.1.0",
