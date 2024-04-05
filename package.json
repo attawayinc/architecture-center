@@ -6,7 +6,7 @@
   "main": "build",
   "dependencies": {
     "commonmark": "^0.27.0",
-    "glob": "^10.3.4",
+    "glob": "^10.3.12",
     "line-ending-corrector": "^1.0.0",
     "liquidjs": "^10.10.2",
     "svgexport": "^0.4.0",
