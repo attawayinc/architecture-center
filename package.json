@@ -8,7 +8,7 @@
     "commonmark": "^0.31.2",
     "glob": "^11.0.0",
     "line-ending-corrector": "^1.0.0",
-    "liquidjs": "^10.17.0",
+    "liquidjs": "^10.18.0",
     "svgexport": "^0.4.0",
     "yaml-front-matter": "^3.4.0"
   },
